@@ -1,6 +1,6 @@
 # 服务器状态监控系统
 
-这个系统由两个文件组成，一个是用 Python 编写的服务器监控脚本 `server_monitor.py`，另一个是用 PHP 编写的服务器状态显示界面 `server_status_display.php`。
+系统由两个文件组成，一个是用 Python 编写的服务器监控脚本 `server_monitor.py`，另一个是用 PHP 编写的服务器状态显示界面 `server_status_display.php`。
 
 ### Python 监控脚本：`server_monitor.py`
 
